@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://i.ibb.co.com/7tjYXQc/3f7a1f1beaa402b09bb3cdcfd4545a3e.jpg" />
+</p>
+
 # 💫 About Me:
 🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
 
